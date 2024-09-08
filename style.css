@@ -1,0 +1,19 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+	margin-top: 2%;
+}
+table {
+	width: 100%;
+}
+th {
+    background: #963;
+    color: #FFF;
+}
+.filtertable {
+	margin-top: 20px;
+}
+.pointer-cursor {
+	cursor: pointer;
+}
